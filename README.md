@@ -13,7 +13,7 @@ Practical Color Co-ordinate System
 
 ### Usage
 
-	getPccsHtml.sh <toneFile1 toneFile2 toneFile3 ...>
+	getPccsHtml.sh <toneName1 toneName2 toneName3 ...>
 
 Ex: ./getPccsHtml.sh v b lt p s sf ltg dp d g dk dkg > pccsWeb.html
 
