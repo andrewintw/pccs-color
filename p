@@ -1,0 +1,12 @@
+#e8cbcb
+#e8ccc3
+#f3ddc9
+#ebe0c4
+#e5e2c4
+#bdd9c9
+#b9d8d5
+#bed6df
+#bac4d3
+#c5c2d3
+#cebfce
+#e4ccd3
